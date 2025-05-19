@@ -203,9 +203,24 @@ Ready-to-use component libraries that work well with React and other frameworks:
 ### Backend
 
 #### Node.js
-- [Node.js Official Documentation](https://nodejs.org/en/docs/) - Official Node.js documentation
+A JavaScript runtime built on Chrome's V8 JavaScript engine for building server-side applications.
+
+##### Documentation
+- [Node.js Official Docs](http://nodejs.org/docs/latest/api/) - Official Node.js API documentation
+- [Google Cloud Node.js Docs](https://cloud.google.com/nodejs/docs) - Node.js on Google Cloud Platform
+- [MDN Node.js Guide](https://developer.mozilla.org/en-US/docs/Glossary/Node.js) - Node.js fundamentals on MDN
 - [Express.js](https://expressjs.com/) - Fast, unopinionated, minimalist web framework for Node.js
 - [Node.js Best Practices](https://github.com/goldbergyoni/nodebestpractices) - Summary of best practices for Node.js
+
+##### Video Tutorials - English
+- [Node.js Tutorial Series - The Net Ninja](https://www.youtube.com/watch?v=5eaBOxXABkU&list=PL1BztTYDF-QPdTvgsjf8HOwO4ZVl_LhxS) - Comprehensive Node.js course
+- [Node.js and Express.js Full Course - Codevolution](https://www.youtube.com/watch?v=LAUi8pPlcUM&list=PLC3y8-rFHvwh8shCMHFA5kWxD9PaPwxaY) - Complete Node.js and Express.js tutorial
+- [Node.js Tutorial - Navin Reddy](https://www.youtube.com/watch?v=yEHCfRWz-EI&list=PLsyeobzWxl7occsESx2X1E2R2Uw5wCoeG) - Node.js from basics to advanced
+
+##### Video Tutorials - Hindi
+- [Node.js Tutorial in Hindi - Thapa Technical](https://www.youtube.com/watch?v=ohIAiuHMKMI&list=PLinedj3B30sDby4Al-i13hQJGQoRQDfPo) - Complete Node.js tutorial in Hindi
+- [Node.js Course - Technical Thapa](https://www.youtube.com/watch?v=AZzV3wZCvI4&list=PL78RhpUUKSwfeSOOwfE9x6l5jTjn5LbY3) - In-depth Node.js course in Hindi
+- [Node.js in One Video - CodeWithHarry](https://www.youtube.com/watch?v=BLl32FvcdVM) - Quick Node.js overview in Hindi
 
 #### Python
 - [Django Documentation](https://docs.djangoproject.com/) - Official Django documentation
@@ -339,3 +354,7 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 ---
 
 ⭐ **If you find these resources helpful, please consider giving this repository a star!** ⭐
+
+*This repository is maintained by [HakashiKatake](https://github.com/HakashiKatake)*
+
+*Last updated: 2025-05-19 17:54:21*
