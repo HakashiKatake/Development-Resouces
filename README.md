@@ -339,7 +339,3 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 ---
 
 ⭐ **If you find these resources helpful, please consider giving this repository a star!** ⭐
-
-*This repository is maintained by [HakashiKatake](https://github.com/HakashiKatake)*
-
-*Last updated: 2025-05-19 17:43:15*
