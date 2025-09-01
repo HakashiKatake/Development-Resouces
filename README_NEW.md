@@ -13,7 +13,6 @@
   - [Backend Development](./web-development/backend/README.md)
   - [Fullstack Development](./web-development/fullstack/README.md)
 - [🎮 Game Development](./game-development/README.md)
-- [🤖 AI Tools for Development](./ai-tools-for-hackathon/README.md)
 - [🛠️ Tools & Utilities](./tools-and-utilities/README.md)
 - [📚 Books & Documentation](./books-and-documentation/README.md)
 - [👥 Communities](./communities/README.md)
@@ -28,9 +27,6 @@ Comprehensive resources for modern web development, covering everything from HTM
 
 ### 🎮 [Game Development](./game-development/README.md)
 Complete guide to game development with engines, programming languages, art tools, and learning resources.
-
-### 🤖 [AI Tools for Development](./ai-tools-for-hackathon/README.md)
-AI-powered tools and platforms to supercharge your development workflow, perfect for hackathons and rapid prototyping.
 
 ### 🛠️ [Tools & Utilities](./tools-and-utilities/README.md)
 Essential development tools, design software, testing frameworks, and productivity utilities.
@@ -47,9 +43,8 @@ Active communities, forums, and platforms to connect with other developers and g
 
 1. **New to Programming?** Start with [Web Development Frontend](./web-development/frontend/README.md)
 2. **Want to build games?** Check out [Game Development](./game-development/README.md)
-3. **Need AI assistance?** Explore [AI Tools for Development](./ai-tools-for-hackathon/README.md)
-4. **Looking for tools?** Browse [Tools & Utilities](./tools-and-utilities/README.md)
-5. **Need learning materials?** Visit [Books & Documentation](./books-and-documentation/README.md)
+3. **Looking for tools?** Browse [Tools & Utilities](./tools-and-utilities/README.md)
+4. **Need learning materials?** Visit [Books & Documentation](./books-and-documentation/README.md)
 
 ---
 
