@@ -177,6 +177,31 @@ Build functional applications without extensive coding using AI-powered platform
   - Real-time collaboration features
   - Open-source project sharing
 
+- **[Framer](https://www.framer.com/)** - Design and publish stunning sites with AI
+  - **Features:**
+    - Design-to-code with AI assistance
+    - Advanced animations and interactions
+    - CMS and e-commerce capabilities
+    - SEO-optimized output
+    - Custom code injection support
+
+### AI-Powered Application Builders
+- **[Bolt.new](https://bolt.new/)** - AI-powered full-stack web development
+  - **Features:**
+    - Generate complete applications from prompts
+    - Real-time code editing and preview
+    - Deploy directly from the platform
+    - Supports modern web frameworks
+    - Perfect for rapid prototyping
+
+- **[Lovable](https://lovable.dev/)** - AI that builds your web app
+  - **Features:**
+    - Conversational app building
+    - Full-stack development capabilities
+    - Modern React and TypeScript output
+    - Database integration included
+    - Continuous AI collaboration
+
 ### Mobile App Development
 - **[Draftbit](https://draftbit.com/)** - Drag-and-drop mobile app builder
   - **Features:**
