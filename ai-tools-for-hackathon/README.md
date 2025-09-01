@@ -5,10 +5,10 @@ AI-powered tools and platforms to supercharge your development workflow, from id
 ## 📋 Table of Contents
 
 - [AI & Ideation Tools](#ai--ideation-tools)
-- [Code Generation & Assistance](#code-generation--assistance)
 - [Documentation Tools](#documentation-tools)
 - [Design & Prototyping Tools](#design--prototyping-tools)
 - [No-Code/Low-Code Platforms](#no-codelow-code-platforms)
+  - [Code Generation & Assistance](#code-generation--assistance)
 - [AI-Powered Testing & Debugging](#ai-powered-testing--debugging)
 - [AI-Enhanced Security Tools](#ai-enhanced-security-tools)
 - [AI-Powered Development Workflows](#ai-powered-development-workflows)
@@ -61,88 +61,7 @@ Transform your ideas into actionable plans with AI-powered brainstorming and ide
   - Multiple AI tools in one platform
   - Good for comprehensive project planning and content creation
 
-## 💻 Code Generation & Assistance
 
-AI-powered coding assistants to write, review, and optimize your code.
-
-### Code Completion & Generation
-- **[GitHub Copilot](https://github.com/features/copilot)** - AI pair programmer that suggests code and entire functions
-  - **Why GitHub Copilot?**
-    - Trained on billions of lines of code
-    - Supports 50+ programming languages
-    - VS Code, JetBrains, Neovim integration
-    - $10/month for individuals, free for students
-  
-- **[Cursor](https://cursor.sh/)** - AI-first code editor built for pair programming with AI
-  - Built-in AI chat and code generation
-  - Advanced AI features like codebase understanding
-  - VS Code compatibility with enhanced AI features
-  
-- **[Codeium](https://codeium.com/)** - Free AI-powered code completion
-  - Supports 70+ programming languages
-  - Free tier with unlimited usage
-  - Extensions for most popular IDEs
-  
-- **[Tabnine](https://www.tabnine.com/)** - AI assistant for software developers
-  - Context-aware code completions
-  - Supports team learning and customization
-  - Privacy-focused with local model options
-  
-- **[Amazon CodeWhisperer](https://aws.amazon.com/codewhisperer/)** - AI coding companion by AWS
-  - Real-time code suggestions
-  - Security scanning and vulnerability detection
-  - Free tier available for individual developers
-  
-- **[AskCodi](https://askcodi.com/shop)** - AI coding assistant for multiple programming languages
-  - Code generation from natural language
-  - Supports web development, data science, and more
-  
-- **[CodeT5](https://github.com/salesforce/CodeT5)** - Open-source code generation model
-  - Code understanding and generation
-  - Multiple programming languages supported
-  - Can be self-hosted for privacy
-  
-- **[Qodo (formerly Codium)](https://www.qodo.ai/)** - AI-powered code integrity platform
-  - Generates meaningful tests for your code
-  - Code analysis and suggestions for improvements
-  - PR review automation
-
-### AI-Powered IDEs & Editors
-- **[Replit AI](https://replit.com/ai)** - AI features in collaborative coding environment
-  - AI code generation and explanation
-  - Real-time collaboration with AI assistance
-  - Instant deployment and hosting
-  
-- **[Gitpod](https://www.gitpod.io/)** - Cloud development environment with AI features
-  - AI-powered development environment setup
-  - Automated workspace configuration
-  - Integration with GitHub, GitLab, Bitbucket
-
-### Code Review & Quality
-- **[Sourcery](https://sourcery.ai/)** - AI code reviewer for Python
-  - Automated code reviews and refactoring suggestions
-  - Integrates with GitHub, GitLab, and other platforms
-  - Focuses on code quality and best practices
-
-- **[DeepCode (Now Snyk Code)](https://snyk.io/product/snyk-code/)** - AI-powered static code analysis
-  - Real-time vulnerability detection
-  - Security-focused code analysis
-  - IDE integrations for immediate feedback
-
-- **[SonarQube](https://www.sonarqube.org/)** - Code quality and security analysis
-  - AI-enhanced code smell detection
-  - Comprehensive security vulnerability scanning
-  - Quality gates and continuous inspection
-
-- **[CodeGuru (AWS)](https://aws.amazon.com/codeguru/)** - Machine learning-powered code review
-  - Performance recommendations and optimization
-  - Security vulnerability detection
-  - Cost optimization suggestions
-
-- **[Embold](https://embold.io/)** - AI-powered code analysis platform
-  - Design pattern analysis and anti-pattern detection
-  - Code complexity metrics and technical debt tracking
-  - Multi-language support with AI insights
 
 ## 📝 Documentation Tools
 
@@ -454,6 +373,89 @@ Build functional applications without extensive coding using AI-powered platform
   - Quick ML model interfaces
   - Share demos with simple links
   - Integration with popular ML frameworks
+
+### 💻 Code Generation & Assistance
+
+AI-powered coding assistants to write, review, and optimize your code.
+
+#### Code Completion & Generation
+- **[GitHub Copilot](https://github.com/features/copilot)** - AI pair programmer that suggests code and entire functions
+  - **Why GitHub Copilot?**
+    - Trained on billions of lines of code
+    - Supports 50+ programming languages
+    - VS Code, JetBrains, Neovim integration
+    - $10/month for individuals, free for students
+  
+- **[Cursor](https://cursor.sh/)** - AI-first code editor built for pair programming with AI
+  - Built-in AI chat and code generation
+  - Advanced AI features like codebase understanding
+  - VS Code compatibility with enhanced AI features
+  
+- **[Codeium](https://codeium.com/)** - Free AI-powered code completion
+  - Supports 70+ programming languages
+  - Free tier with unlimited usage
+  - Extensions for most popular IDEs
+  
+- **[Tabnine](https://www.tabnine.com/)** - AI assistant for software developers
+  - Context-aware code completions
+  - Supports team learning and customization
+  - Privacy-focused with local model options
+  
+- **[Amazon CodeWhisperer](https://aws.amazon.com/codewhisperer/)** - AI coding companion by AWS
+  - Real-time code suggestions
+  - Security scanning and vulnerability detection
+  - Free tier available for individual developers
+  
+- **[AskCodi](https://askcodi.com/shop)** - AI coding assistant for multiple programming languages
+  - Code generation from natural language
+  - Supports web development, data science, and more
+  
+- **[CodeT5](https://github.com/salesforce/CodeT5)** - Open-source code generation model
+  - Code understanding and generation
+  - Multiple programming languages supported
+  - Can be self-hosted for privacy
+  
+- **[Qodo (formerly Codium)](https://www.qodo.ai/)** - AI-powered code integrity platform
+  - Generates meaningful tests for your code
+  - Code analysis and suggestions for improvements
+  - PR review automation
+
+#### AI-Powered IDEs & Editors
+- **[Replit AI](https://replit.com/ai)** - AI features in collaborative coding environment
+  - AI code generation and explanation
+  - Real-time collaboration with AI assistance
+  - Instant deployment and hosting
+  
+- **[Gitpod](https://www.gitpod.io/)** - Cloud development environment with AI features
+  - AI-powered development environment setup
+  - Automated workspace configuration
+  - Integration with GitHub, GitLab, Bitbucket
+
+#### Code Review & Quality
+- **[Sourcery](https://sourcery.ai/)** - AI code reviewer for Python
+  - Automated code reviews and refactoring suggestions
+  - Integrates with GitHub, GitLab, and other platforms
+  - Focuses on code quality and best practices
+
+- **[DeepCode (Now Snyk Code)](https://snyk.io/product/snyk-code/)** - AI-powered static code analysis
+  - Real-time vulnerability detection
+  - Security-focused code analysis
+  - IDE integrations for immediate feedback
+
+- **[SonarQube](https://www.sonarqube.org/)** - Code quality and security analysis
+  - AI-enhanced code smell detection
+  - Comprehensive security vulnerability scanning
+  - Quality gates and continuous inspection
+
+- **[CodeGuru (AWS)](https://aws.amazon.com/codeguru/)** - Machine learning-powered code review
+  - Performance recommendations and optimization
+  - Security vulnerability detection
+  - Cost optimization suggestions
+
+- **[Embold](https://embold.io/)** - AI-powered code analysis platform
+  - Design pattern analysis and anti-pattern detection
+  - Code complexity metrics and technical debt tracking
+  - Multi-language support with AI insights
 
 ## 🧠 AI-Powered Testing & Debugging
 
