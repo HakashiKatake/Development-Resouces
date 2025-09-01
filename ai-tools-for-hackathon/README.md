@@ -246,7 +246,8 @@ Build functional applications without extensive coding using AI-powered platform
    - Sanity Create for written guides
 
 5. **Deployment Phase**
-   - No-code platforms for rapid MVP deployment
+   - AI-powered platforms like Bolt.new, Lovable, or Framer for instant deployment
+   - Traditional no-code platforms for rapid MVP deployment
    - AI-assisted monitoring and optimization
 
 ### Hackathon-Specific Workflow
@@ -257,8 +258,8 @@ Build functional applications without extensive coding using AI-powered platform
 
 **During Hackathon:**
 - **Hour 1-2:** Ideation with ChatGPT/Ideanote
-- **Hour 2-4:** UI/UX design with Uizard/Figma
-- **Hour 4-20:** Development with AI assistance
+- **Hour 2-4:** UI/UX design with Uizard/Figma/Framer
+- **Hour 4-20:** Development with Bolt.new/Lovable or GitHub Copilot
 - **Hour 20-22:** Documentation with Mintlify/Guidde
 - **Hour 22-24:** Polish and deployment
 
@@ -313,8 +314,8 @@ Build functional applications without extensive coding using AI-powered platform
 
 ### For Hackathons
 **Speed-Focused Toolkit:**
-- **Rapid Prototyping:** Bubble or WeWeb
-- **Quick Design:** Uizard + Coolors
+- **Rapid Prototyping:** Bolt.new, Lovable, or Bubble
+- **Quick Design:** Uizard + Coolors + Framer
 - **Fast Coding:** GitHub Copilot + AskCodi
 - **Instant Docs:** Guidde for demos
 
